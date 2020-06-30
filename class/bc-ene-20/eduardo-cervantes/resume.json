@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "image": "foto.jpg",
+    "picture": "http://127.0.0.1:5500/resume/eduardo-cervantes/foto.jpg",
+    "name": "Jose Cervantes",
+    "label": "Ruby on Rails Web Developer",
+    "email": "Jcervantes11@gmail.com",
+    "phone": "3122291166",
+    "summary": "My name is Jose Eduardo Cervantes Zepeda, i'm 22 years old, i studied telematics engineering 8 semesters at colima university. I always liked technologies and i have no problem researching and learning what i like. In the future i would like to be able to use various programming languages at a high level, and be able to create technological solutions to various problems.",
+    "location": {
+      "address": "Maria de la luz delgado #1435",
+      "postalCode": "28984",
+      "city": "Colima",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Jcervantes11",
+        "url": "https://github.com/Jcervantes11"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Brightcoders Academy / Donadores Compulsivos",
+      "position": "practitioner",
+      "website": "",
+      "startDate": "2020-01-13",
+      "endDate": "2020-06-15",
+      "summary": "I was working on the development of a web page together with a team using Ruby on Rails."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Colima",
+      "area": "Telematics Engineer",
+      "studyType": "Engineer",
+      "startDate": "2016-08-01",
+      "endDate": "2020-08-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "5th National Colloquium on Educational Research",
+      "date": "2019-09-01",
+      "awarder": "General Direction of Planning and Institutional Development at the University of Colima",
+      "summary": "For exposing about: 'Information systems for educational planning through statistical indicators'"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": ["HTML", "CSS", "Javascript"],
+      "level": "Competent"
+    },
+    {
+      "name": "Ruby",
+      "keywords": ["Ruby"],
+      "level": "Competent"
+    },
+    {
+      "name": "C++",
+      "keywords": ["C++"],
+      "level": "Competent"
+    },
+    {
+      "name": "C#",
+      "keywords": ["C#"],
+      "level": "Advanced beginner"
+    },
+    {
+      "name": "Ruby on Rails",
+      "keywords": ["Ruby", "Ruby on Rails", "Web development"],
+      "level": "Competent"
+    },
+    {
+      "name": "PHP",
+      "keywords": ["Web development", "PHP"],
+      "level": "Advanced beginner"
+    },
+    {
+      "name": "Git",
+      "keywords": ["Git", "GitHub", "GitLab"],
+      "level": "Competent"
+    },
+    {
+      "name": "SQL Databases",
+      "keywords": ["Mysql"],
+      "level": "Competent"
+    },
+    {
+      "name": "Adaptability",
+      "level": "Proficient"
+    },
+    {
+      "name": "Responsibility",
+      "level": "Proficient"
+    },
+    {
+      "name": "TeamWork",
+      "level": "Proficient"
+    },
+    {
+      "name": "Organization",
+      "level": "Proficient"
+    },
+    {
+      "name": "positive attitude",
+      "level": "Proficient"
+    },
+    {
+      "name": "time management",
+      "level": "Proficient"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English (TOEFL 437)",
+      "fluency": "Competent"
+    }
+  ]
+}
