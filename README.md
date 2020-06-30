@@ -1,7 +1,7 @@
 ![Brightcoders logo](img/logo-bc.png)
 # Scorecards
 
-## Class BC-ENE-2020
+## Clase BC-ENE-2020
 ### 13 Ene - 26 Jun 2020
 
 Num | Prog | Nombre | ScoreCard  
