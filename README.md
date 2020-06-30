@@ -4,8 +4,8 @@
 ## Class BC-ENE-2020
 ### 13 Ene - 26 Jun 2020
 
-Num | Prog | Nombre | ScoreCard | 
---- | --- | --- | 
+Num | Prog | Nombre | ScoreCard  
+--- | --- | --- | --- 
 01 | RoR	| [Alvaro Padilla Mendoza()] | [PDF]() [HTML]() 
 02 | RoR	| [Carlos Daniel Hernández Rodríguez()] | [PDF]() [HTML]()
 03 | RoR	| [Esmeralda Elizabeth Santoyo Morales()] | [PDF]() [HTML]()
