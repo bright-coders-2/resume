@@ -9,7 +9,7 @@ Num | Prog | Nombre | ScoreCard
 01 | RoR	| [Alvaro Padilla Mendoza]() | [PDF]() [HTML]() 
 02 | RoR	| [Carlos Daniel Hernández Rodríguez]() | [PDF]() [HTML]()
 03 | RoR	| [Esmeralda Elizabeth Santoyo Morales]() | [PDF]() [HTML]()
-04 | RoR	| [José Eduardo Cervantes Zepeda]() | [PDF]() [HTML]()
+04 | RoR	| [José Eduardo Cervantes Zepeda]() | [PDF](class/bc-ene-20/eduardo-cervantes/eduardo-cervantes.pdf) [HTML](class/bc-ene-20/eduardo-cervantes/eduardo-cervantes.html)
 05 | RoR	| [José Reynaldo Jacobo Urzua]() | [PDF]() [HTML]()
 06 | RoR	| [Luis Edgar Ramos de los Santos]() | [PDF]() [HTML]()
 07 | RoR	| [Jorge Alejandro Vargas Martínez]() | [PDF]() [HTML]()
