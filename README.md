@@ -20,6 +20,5 @@
 | 12  | Shopify | Aarón Iván Barreto Tapia             | [PDF](class/bc-ene-20/aaron-barreto/aaron-barreto.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/aaron-barreto/aaron-barreto.html)                 |
 | 13  | Shopify | Jaime Osvaldo González Cárdenas      | PDF HTML                                                                                                                                                                                                           |
 | 14  | UI/UX   | Rubí Lizet Castellanos Núñez         | PDF                                                                                                                                                                                                                |
-| 15  | UI/UX   | Fernanda Lizeth Morales Torres       | PDF                                                                                                                                                                                                                |
-|     |
+| 15  | UI/UX   | Fernanda Lizeth Morales Torres       | PDF                                                                                                         
 | 16  | UI/UX   | Maria Paola López Sandoval           | [PDF](class/bc-ene-20/paola-lopez/paola-lopez.pdf)                                                                                                                                                                 |
