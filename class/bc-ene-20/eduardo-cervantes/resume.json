@@ -89,30 +89,32 @@
       "name": "SQL Databases",
       "keywords": ["Mysql"],
       "level": "Competent"
-    },
+    }
+  ],
+  "softskills": [
     {
       "name": "Adaptability",
-      "level": "Proficient"
+      "level": "Acquired"
     },
     {
       "name": "Responsibility",
-      "level": "Proficient"
+      "level": "Acquired"
     },
     {
       "name": "TeamWork",
-      "level": "Proficient"
+      "level": "Acquired"
     },
     {
       "name": "Organization",
-      "level": "Proficient"
+      "level": "Acquired"
     },
     {
       "name": "positive attitude",
-      "level": "Proficient"
+      "level": "Acquired"
     },
     {
       "name": "time management",
-      "level": "Proficient"
+      "level": "Acquired"
     }
   ],
   "languages": [

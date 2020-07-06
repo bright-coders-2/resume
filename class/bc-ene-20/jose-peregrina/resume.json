@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "José Luis Peregrina Rosales",
+    "label": "React Native Mobile Developer",
+    "picture": "http://127.0.0.1:5500/resume/jos%C3%A9-peregrina/foto.jpg",
+    "image": "foto.jpg",
+    "email": "peregrinarosales97@gmail.com",
+    "phone": "(331) 935-2154",
+    "summary": "My name is Jose Peregrina and I’m 22 years old, I consider me a person who have a big interest about the technology, software and machines and I prefer the idea of “teach yourself”. I studied a bachelor degree in Universidad de Colima about Software Engineer. I like work in team because it gives you a lot of opportunities to learn, sometimes when your teammates give help to you and others when you help them.",
+    "location": {
+      "address": "Lázaro Cárdenas, Campanillo #1620",
+      "postalCode": "28047",
+      "city": "Colima",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "Jose Luis Peregrina Rosales",
+        "url": "https://www.facebook.com/joseluis.peregrinarosales"
+      },
+      {
+        "network": "Github",
+        "username": "https://github.com/JosePeregrina",
+        "ur": "JosePeregrina"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bright Coders/Donadores compulsivos project",
+      "position": "Bright Coder",
+      "website": "https://www.magmalabs.io/about-us/",
+      "startDate": "2020-01-13",
+      "endDate": "2014-06-15",
+      "summary": "I worked like a mobile developer using react-native framework around six months. I created some user interfaces and redux's reducers. Besides to pass data from the reducer to firebase API and vice versa. Also I did a little bit of unit testing with Jest.js",
+      "highlights": ["Trainee"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Colima",
+      "area": "Software Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2016-08-10",
+      "endDate": "2020-06-26",
+      "gpa": "8.29",
+      "courses": ["K801 - INGENIERO (A) DE SOFTWARE"]
+    },
+    {
+      "institution": "Total English School",
+      "area": "Language",
+      "studyType": "English",
+      "startDate": "2017-06-20",
+      "endDate": "2019-11-18",
+      "gpa": "9.2",
+      "courses": ["Certification B2+"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Competent"
+    },
+    {
+      "name": "Javascript",
+      "level": "Competent"
+    },
+    {
+      "name": "CSS",
+      "level": "Competent"
+    },
+    {
+      "name": "React",
+      "level": "Competent"
+    },
+    {
+      "name": "Linux",
+      "level": "Competent"
+    },
+    {
+      "name": "Redux",
+      "level": "Advanced Beginner"
+    },
+    {
+      "name": "Git",
+      "level": "Advanced Beginner"
+    },
+    {
+      "name": "React Native",
+      "level": "Advanced Beginner"
+    },
+    {
+      "name": "Jquery",
+      "level": "Novice"
+    }
+  ],
+  "softskills": [
+    {
+      "name": "Leadership",
+      "level": "Acquired"
+    },
+    {
+      "name": "Teamwork",
+      "level": "Acquired"
+    },
+    {
+      "name": "Perseverance",
+      "level": "Acquired"
+    },
+    {
+      "name": "Empathy",
+      "level": "Acquired"
+    },
+    {
+      "name": "Helpfulness",
+      "level": "Acquired"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Competent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["Software", "Web development", "Programming"]
+    }
+  ]
+}

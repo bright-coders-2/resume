@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Esmeralda Elizabeth Santoyo Morales",
+    "label": "Ruby on Rails Web Developer",
+    "picture": "http://127.0.0.1:5500/resume/esmeralda-santoyo/foto.jpg",
+    "image": "foto.jpg",
+    "email": "esmesantoyomorales@gmail.com",
+    "phone": "3121294096",
+    "website": "",
+    "summary": "My name is Esmeralda Elizabeth Santoyo Morales, I had never mind studying Computer systems engineer before, but now I'm a person who loves programming, likes to learn programming languages, conventions, and good practices. I would like to work in a company in which I have the opportunity to develop professionally, improve my skills, and share my knowledge.",
+    "location": {
+      "address": "#720 Del Bronce",
+      "postalCode": "28985",
+      "city": "Villa de Álvarez",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "EsmeSantoyo",
+        "url": "https://github.com/EsmeSantoyo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "BrightCoders Academy/ Donadores Compusivos",
+      "position": "BrightCoder (Ruby on Rails Apprentice)",
+      "website": "https://www.magmalabs.io/",
+      "startDate": "2020-01-09",
+      "endDate": "2020-07-09",
+      "summary": "I worked in the 'Donadores Compusivos' project, which was started by another generation of bright coders, developing a web page using Ruby on Rails, HTML, SCSS, and javascript. I learned so much about Ruby, Rails, Git, APIs, tests, practices, teamwork, leadership, mentoring, etc.",
+      "highlights": ["First real project"]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "'Universidad de Colima'",
+      "area": "Computer Systems Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2015-08-09",
+      "endDate": "2019-08-16",
+      "gpa": "9.21",
+      "courses": ["E903 - INGENIERO (A) EN SISTEMAS COMPUTACIONALES"]
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Ruby",
+      "level": "Competent",
+      "keywords": ["ruby"]
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "Competent",
+      "keywords": ["ruby", "ruby on rails", "capybara", "rspec"]
+    },
+    {
+      "name": "Git",
+      "level": "Competent",
+      "keywords": ["git", "github"]
+    },
+    {
+      "name": "CSS",
+      "level": "Proficient",
+      "keywords": ["css"]
+    },
+    {
+      "name": "HTML",
+      "level": "Proficient",
+      "keywords": ["html"]
+    },
+    {
+      "name": "React",
+      "level": "Advanced Beginner",
+      "keywords": ["react"]
+    },
+    {
+      "name": "PHP",
+      "level": "Advanced Beginner",
+      "keywords": ["php"]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced Beginner",
+      "keywords": ["python"]
+    },
+    {
+      "name": "C++",
+      "level": "Advanced Beginner",
+      "keywords": ["c++"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Competent",
+      "keywords": ["javascript"]
+    }
+  ],
+  "softskills": [
+    {
+      "name": "Organization",
+      "level": "Acquired",
+      "keywords": ["organization"]
+    },
+    {
+      "name": "Quick learner",
+      "level": "Acquired",
+      "keywords": ["quick learner"]
+    },
+    {
+      "name": "Creativity",
+      "level": "Acquired",
+      "keywords": ["creativity"]
+    },
+    {
+      "name": "Teamwork",
+      "level": "Acquired",
+      "keywords": ["teamwork"]
+    },
+    {
+      "name": "Responsibility",
+      "level": "Acquired",
+      "keywords": ["responsibility"]
+    },
+    {
+      "name": "Discipline",
+      "level": "Acquired",
+      "keywords": ["discipline"]
+    },
+    {
+      "name": "Leadership",
+      "level": "Acquired",
+      "keywords": ["leadership"]
+    },
+    {
+      "name": "Punctuality",
+      "level": "Acquired",
+      "keywords": ["punctuality"]
+    },
+    {
+      "name": "Adaptability",
+      "level": "Acquired",
+      "keywords": ["adaptability"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Competent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Drawing",
+      "keywords": ["pencil", "draw"]
+    }
+  ]
+}

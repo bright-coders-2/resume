@@ -4,19 +4,22 @@
 ## Clase BC-ENE-2020
 ### 13 Ene - 26 Jun 2020
 
-Num | Prog | Nombre | ScoreCard  
---- | --- | --- | --- 
-01 | RoR	| [Alvaro Padilla Mendoza]() | [PDF]() [HTML]() 
-02 | RoR	| [Carlos Daniel Hernández Rodríguez]() | [PDF]() [HTML]()
-03 | RoR	| [Esmeralda Elizabeth Santoyo Morales]() | [PDF]() [HTML]()
-04 | RoR	| [José Eduardo Cervantes Zepeda]() | [PDF](class/bc-ene-20/eduardo-cervantes/eduardo-cervantes.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/eduardo-cervantes/eduardo-cervantes.html)
-05 | RoR	| [José Reynaldo Jacobo Urzua]() | [PDF]() [HTML]()
-06 | RoR	| [Luis Edgar Ramos de los Santos]() | [PDF]() [HTML]()
-07 | RoR	| [Jorge Alejandro Vargas Martínez]() | [PDF]() [HTML]()
-08 | RoR	| [José Jaime Ortiz Diaz]() | [PDF]() [HTML]()
-09 | RN	| [José Luis Peregrina Rosales]() | [PDF]() [HTML]()
-10 | RN	| [Mariana Guadalupe Maldonado Enríquez]() | [PDF]() [HTML]()
-11 | Shopify	| [Aarón Iván Barreto Tapia]() | [PDF]() [HTML]()
-12 | Shopify	| [Jaime Osvaldo González Cárdenas]() | [PDF]() [HTML]()
-13 | UI/UX	| [Rubí Lizet Castellanos Núñez]() | [PDF]() [HTML]()
-
+| Num | Prog    | Nombre                               | ScoreCard                                                                                                                                                                                                          |
+| --- | ------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 01  | RoR     | Alvaro Padilla Mendoza               | [PDF](class/bc-ene-20/alvaro-padilla/alvaro-padilla.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/alvaro-padilla/alvaro-padilla.html)             |
+| 02  | RoR     | Carlos Daniel Hernández Rodríguez    | [PDF](class/bc-ene-20/carlos-daniel/carlos-daniel.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/carlos-daniel/carlos-daniel.html)                 |
+| 03  | RoR     | Esmeralda Elizabeth Santoyo Morales  | [PDF](class/bc-ene-20/esmeralda-santoyo/esme-santoyo.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/esmeralda-santoyo/esme-santoyo.html)           |
+| 04  | RoR     | José Eduardo Cervantes Zepeda        | [PDF](class/bc-ene-20/eduardo-cervantes/eduardo-cervantes.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/eduardo-cervantes/eduardo-cervantes.html) |
+| 05  | RoR     | José Reynaldo Jacobo Urzua           | [PDF](class/bc-ene-20/reynaldo-jacobo/reynaldo-jacobo.pdf) [HTML](class/bc-ene-20/reynaldo-jacobo/reynaldo-jacobo.html)                                                                                            |
+| 06  | RoR     | Luis Edgar Ramos de los Santos       | PDF HTML                                                                                                                                                                                                           |
+| 07  | RoR     | Jorge Alejandro Vargas Martínez      | [PDF](class/bc-ene-20/jorge-vargas/jorge-vargas.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/jorge-vargas/jorge-vargas.html)                     |
+| 08  | RoR     | José Jaime Ortiz Díaz                | [PDF](class/bc-ene-20/jaime-ortiz/jaime-ortiz.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/jaime-ortiz/jaime-ortiz.html)                         |
+| 09  | RN      | José Luis Peregrina Rosales          | [PDF](class/bc-ene-20/jose-peregrina/jose-peregrina.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/jose-peregrina/jose-peregrina.html)             |
+| 10  | RN      | Mariana Guadalupe Maldonado Enríquez | [PDF](class/bc-ene-20/mariana-maldonado/mariana-maldonado.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/mariana-maldonado/mariana-maldonado.html) |
+| 11  | RN      | Leyaim Misael Jiménez Elizondo       | PDF                                                                                                                                                                                                                |
+| 12  | Shopify | Aarón Iván Barreto Tapia             | [PDF](class/bc-ene-20/aaron-barreto/aaron-barreto.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/aaron-barreto/aaron-barreto.html)                 |
+| 13  | Shopify | Jaime Osvaldo González Cárdenas      | PDF HTML                                                                                                                                                                                                           |
+| 14  | UI/UX   | Rubí Lizet Castellanos Núñez         | PDF                                                                                                                                                                                                                |
+| 15  | UI/UX   | Fernanda Lizeth Morales Torres       | PDF                                                                                                                                                                                                                |
+|     |
+| 16  | UI/UX   | Maria Paola López Sandoval           | [PDF](class/bc-ene-20/paola-lopez/paola-lopez.pdf)                                                                                                                                                                 |

@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "José Jaime Ortiz Diaz",
+    "label": "Ruby on Rails Web Developer",
+    "picture": "http://127.0.0.1:5500/resume/jaime-ortiz/foto.jpg",
+    "image": "foto.jpg",
+    "email": "jaime.mac001@gmail.com",
+    "phone": "52+ 313 106 89 08",
+    "website": "",
+    "summary": "I am a person who is passionate about technologies, learning new things and working as a team, I am about to graduate as Telematics Engineer and I want to develop my capacity for responsibility and creativity in a well-built company. Likewise to apply and polish the skills and experiences acquired during my career and in all this time to develop myself as a Front-end Developer.",
+    "location": {
+      "address": "Atlanta #61 Ral Santa Fe",
+      "postalCode": "28978",
+      "city": "Villa de Alvarez",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Jaime001",
+        "url": "https://github.com/Jaime001"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Brightcoders Academy / Donadores Compulsivos project",
+      "position": "Brightcoder Ruby on Rails developer",
+      "website": "https://www.brightcoders.com/",
+      "startDate": "2020-01-13",
+      "endDate": "2020-06-26",
+      "summary": "I worked as a Full-stack developer(Apprentice) for the 'Donadores Compulsivos' page with different technologies such as Ruby on Rails, Javascript, SASS, HTML5, Bootstrap, Git, Github, Rspec and Capybara.",
+      "highlights": [""]
+    },
+    {
+      "company": "University of colima / Plataform for Cross-Project Management",
+      "position": "Developer",
+      "website": "https://www.ucol.mx/",
+      "startDate": "2019-01-15",
+      "endDate": "2019-11-20",
+      "summary": "Development of a plataform for project management with open source Moodle Technology, Ubuntu server, CSS3 and HTML5",
+      "highlights": [""]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Sicar FARMS",
+      "position": "Intern",
+      "website": "http://sicarfarms.com.mx/",
+      "startDate": "2018-07-01",
+      "endDate": "2018-08-01",
+      "summary": "Assistant in the IT department, failure log and progress in ERP (Enterprise Resource Planning) management system.",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Colima",
+      "area": "Telematics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2016-08-01",
+      "endDate": "2020-06-12",
+      "gpa": "8.07",
+      "courses": [
+        "Platzi - Git and GitHub Professional Course, Code Academy - Learn Ruby, Codigo Facilito - Introductory course to Ruby on Rails"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Competent",
+      "keywords": ["HTML5", "CSS3", "Javascript", "Bootstrap"]
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "Competent",
+      "keywords": ["Ruby on rails", "SASS", "Capybara", "Rspec"]
+    },
+    {
+      "name": "Ruby",
+      "level": "Competent",
+      "keywords": ["Ruby"]
+    },
+    {
+      "name": "Git",
+      "level": "Competent",
+      "keywords": ["Git", "GitHub", "Gitlab"]
+    },
+    {
+      "name": "SQL",
+      "level": "Competent",
+      "keywords": ["SQL", "Databases", "MySQL"]
+    },
+    {
+      "name": "Linux",
+      "level": "Advanced beginner",
+      "keywords": ["Linux", "Open source"]
+    }
+  ],
+  "softskills": [
+    {
+      "name": "Teamwork",
+      "level": "Acquired",
+      "keywords": ["Teamwork"]
+    },
+    {
+      "name": "Communication",
+      "level": "Acquired",
+      "keywords": ["Communication"]
+    },
+    {
+      "name": "Responsibility",
+      "level": "Acquired",
+      "keywords": ["Responsibility"]
+    },
+    {
+      "name": "Leadership",
+      "level": "Acquired",
+      "keywords": ["Leadership"]
+    },
+    {
+      "name": "Creativity",
+      "level": "Acquired",
+      "keywords": ["Creativity"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Competent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Basketball", "Run", "Cycling"]
+    }
+  ]
+}

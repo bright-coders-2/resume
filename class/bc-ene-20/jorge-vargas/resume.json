@@ -1,0 +1,194 @@
+{
+  "basics": {
+    "name": "Jorge Alejandro Vargas Martinez",
+    "label": "Ruby on Rails Web Developer",
+    "picture": "http://127.0.0.1:5500/resume/jorge-vargas/foto.png",
+    "image": "foto.png",
+    "email": "jvargasmartinez18@gmail.com",
+    "phone": "(312) 310-6821",
+    "website": "https://www.linkedin.com/in/jvargas98",
+    "summary": "I am a senior in University. Software engineer student of Telematics School of the University of Colima. My favorite branch of software development is web development. I am very passionate about everything related and I like to learn a lot about it, like learning new tools, techniques and good practices. The practical experience that I currently have developing software I got it by developing some projects at the university as part of my subjects and also the experience within the Brightcoders Academy. I can finally say that I am a person who likes challenges, problem solving and hard work.",
+    "location": {
+      "address": "23 de Octubre #930, Alfonso Rolon Michel",
+      "postalCode": "28983",
+      "city": "Villa de Álvarez",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "jvargas98",
+        "url": "https://www.linkedin.com/in/jvargas98"
+      },
+      {
+        "network": "Twitter",
+        "username": "jvargas_98",
+        "url": "http://twitter.com/jvargas_98"
+      },
+      {
+        "network": "Github",
+        "username": "jvargas98",
+        "url": "https://github.com/jvargas98"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bright Coders Academy",
+      "position": "Web Developer",
+      "website": "https://www.brightcoders.com/",
+      "startDate": "2020-01-13",
+      "endDate": "2020-06-13",
+      "summary": "I worked developing a web application for the association of 'Donadores Compulsivos' using Ruby on Rails, Sass and Javascript.  I worked on both the backend and the frontend. I also worked on creating an api to serve services to a mobile application.",
+      "highlights": [
+        "Started working on my first real project with a client, working on a company"
+      ]
+    },
+    {
+      "company": "CRREAD COLIMA",
+      "position": "Backend Developer",
+      "website": "",
+      "startDate": "2019-03-01",
+      "endDate": "2019-12-20",
+      "summary": "I developed the backend part for Patient Tracking Platform for the CRREAD of Colima. CRREAD is an association that helps people with drug addiction and alcoholism problems. The platform helps in the patient treatment processes.",
+      "highlights": ["Started working with a real client"]
+    },
+    {
+      "company": "University of Colima",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2018-11-01",
+      "endDate": "2018-12-01",
+      "summary": "I developed a simple Virtual Assistant with DialogFlow and PHP that showed information about the careers of a University. The work I did was to classify the JSON data received from DialogFlow in PHP to get data from a database to generate answers for the assistant.",
+      "highlights": ["Created my first virtual assistant"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Colima",
+      "area": "Software Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2016-08-01",
+      "endDate": "2020-08-01",
+      "gpa": "9.2",
+      "courses": [
+        "Platzi - React Course",
+        "Platzi - Course on Creating APIs with Ruby on Rails",
+        "Platzi - Git and GitHub Professional Course",
+        "CodigoFacilito - Ruby on Rails Introduction Course",
+        "Codecademy - Learn Ruby"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Beca de Excelencia Académica 'Prof. Ruben Vizcarra Campos'",
+      "date": "2018-08-01",
+      "awarder": "University of Colima",
+      "summary": "The highest gpa of the software engineering career semester."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Competent",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "Ruby",
+      "level": "Competent",
+      "keywords": ["Ruby"]
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "Competent",
+      "keywords": [
+        "Ruby",
+        "Ruby on Rails",
+        "Sass",
+        "Postgres",
+        "Rspec",
+        "Capybara",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced Beginner",
+      "keywords": ["React", "Web Development"]
+    },
+    {
+      "name": "PHP",
+      "level": "Competent",
+      "keywords": ["PHP", "Web Development"]
+    },
+    {
+      "name": "Git",
+      "level": "Competent",
+      "keywords": ["Git", "Github", "Gitlab", "CodeCommit"]
+    },
+    {
+      "name": "AWS",
+      "level": "Advanced Beginner",
+      "keywords": ["S3", "EC2", "CodeCommit", "CodeDeploy", "IAM"]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Novice",
+      "keywords": ["React Native"]
+    }
+  ],
+  "softskills": [
+    {
+      "name": "Teamwork",
+      "level": "Acquired",
+      "keywords": ["Teamwork"]
+    },
+    {
+      "name": "Responsibility",
+      "level": "Acquired",
+      "keywords": ["Responsibility"]
+    },
+    {
+      "name": "Adaptable",
+      "level": "Acquired",
+      "keywords": ["Adaptable"]
+    },
+    {
+      "name": "Creative",
+      "level": "Acquired",
+      "keywords": ["Creative"]
+    },
+    {
+      "name": "Analytical",
+      "level": "Acquired",
+      "keywords": ["Analytical"]
+    },
+    {
+      "name": "Tactful",
+      "level": "Acquired",
+      "keywords": ["Tactful"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Competent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Videogames",
+      "keywords": ["Xbox", "Rainbow Six Siege", "Call of Duty"]
+    },
+    {
+      "name": "Astronomy",
+      "keywords": ["Planets", "Stars", "Black holes"]
+    }
+  ]
+}

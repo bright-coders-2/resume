@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Jaime González",
+    "label": "Frontend & Shopify Developer",
+    "email": "valdoc7@gmail.com",
+    "picture": "http://127.0.0.1:5500/resume/jaime-gonzalez/foto.jpg",
+    "image": "foto.jpg",
+    "phone": "+52 1 312 320 6062",
+    "summary": "I am 22 years old and I have a degree in Computer Systems Engineering. I am a creative analyst, an athlete and a responsible and positive person who is incredibly passionate about learning new things and solving problems.",
+    "location": {
+      "address": "Av. Oyamel #874 Col. Prados del Sur",
+      "postalCode": "28078",
+      "city": "Colima",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "JaimeGonz",
+        "url": "https://github.com/JaimeGonz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bright Coders Academy / Untitled Project",
+      "position": "Frontend and Shopify developer",
+      "website": "https://www.brightcoders.com",
+      "startDate": "2020-01-22",
+      "endDate": "2020-07-02",
+      "summary": "I coded half of the front page and shopify's 'backend' for the online store to the Untitled clothing brand."
+    },
+    {
+      "company": "Nebusens",
+      "position": "Web Developer",
+      "website": "https://www.nebusens.com.mx/",
+      "startDate": "2017-10-05",
+      "endDate": "2018-02-15",
+      "summary": "This project for the company consisted of organizing its website so that they could see the statistics obtained from a vehicle geolocation sensor in a simplified way. The duration was 2 months and it was a very exciting and challenging project to do where I learnt HTML, CSS and JavaScript.",
+      "highlights": ["I helped with some features of the web site"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Colima",
+      "area": "Computer Systems Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2015-08-15",
+      "endDate": "2020-06-22",
+      "gpa": "95"
+    },
+    {
+      "institution": "Centro de Idiomas Tecnológico de Monterrey",
+      "area": "Language",
+      "studyType": "English",
+      "startDate": "2014-09-01",
+      "endDate": "2016-10-10"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Eneit2017",
+      "date": "2017-05-19",
+      "awarder": "1st place Eneit, local phase.",
+      "summary": "Mobile Applications category, SafeTaxi project."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Proficient",
+      "keywords": ["HTML", "CSS", "Sass", "Javascript", "Stimulus"]
+    },
+    {
+      "name": "Shopify",
+      "level": "Competent",
+      "keywords": ["Liquid", "Shopify"]
+    },
+    {
+      "name": "Git",
+      "level": "Competent",
+      "keywords": ["Git", "Github"]
+    },
+    {
+      "name": "PHP",
+      "level": "Advanced Beginner",
+      "keywords": ["PHP", "Web Development"]
+    },
+    {
+      "name": "Java",
+      "level": "Advanced Beginner",
+      "keywords": ["Java"]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced Beginner",
+      "keywords": ["Python"]
+    },
+    {
+      "name": "C#",
+      "level": "Novice",
+      "keywords": ["Python"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Novice"
+    },
+    {
+      "language": "English(TOEFL 520)",
+      "fluency": "Proficient"
+    }
+  ],
+  "personal skills": [
+    {
+      "name": "Soft Skills",
+      "level": "Proficient",
+      "keywords": [
+        "Teamwork",
+        "Self learning",
+        "Leadership",
+        "Creative thinking"
+      ]
+    },
+    {
+      "name": "Arts",
+      "level": "Proficient",
+      "keywords": ["Drawing", "Painting", "Music", "Guitar", "Ukulele", "Piano"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Gym",
+        "Playing music",
+        "Drawing",
+        "Sports",
+        "Rubik's cubes",
+        "Videogames",
+        "Chess",
+        "Sudokus",
+        "Traveling"
+      ]
+    },
+    {
+      "name": "Technology",
+      "keywords": ["Computers", "Smartphones", "Smarthings", "AI"]
+    }
+  ]
+}

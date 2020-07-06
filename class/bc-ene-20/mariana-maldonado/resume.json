@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Mariana Guadalupe Maldonado Enríquez",
+    "label": "React Native Mobile Developer",
+    "picture": "http://127.0.0.1:5500/resume/mariana-maldonado/foto.jpg",
+    "image": "foto.jpg",
+    "email": "mmaldonado9@ucol.mx",
+    "phone": "(+52) 3125548934",
+    "website": "",
+    "summary": "I'm Software Engineering student at the University of Colima who likes to learn and work in team about the new technology topics and its development so I can improve my skills and be more efficient. Also, I like to learn new ways of thinking about cultural aspects, and be able to communicate globally. ",
+    "location": {
+      "address": "Salineros 799, El Porvenir",
+      "postalCode": "28019",
+      "city": "Colima",
+      "countryCode": "MEX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "MarianaMaldonado",
+        "url": "https://github.com/MarianaMaldonado"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Mariana Guadalupe Maldonado Enríquez",
+        "url": "https://www.linkedin.com/in/mariana-guadalupe-maldonado-enríquez"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "BrightCoders Academy / Donadores Compulsivos/ Tribo project",
+      "position": "Apprentice React Native Mobile Developer",
+      "website": "https://www.brightcoders.com/",
+      "startDate": "2020-01-13",
+      "endDate": "2020-07-03",
+      "summary": "Creation, developing and testing a mobile application that could help an user to be part of the community by singning up and can login, so the user can add its information into the app, focusing on the creation of the main design of the app, using React Native, Redux and Firebase."
+    },
+    {
+      "organization": "Dirección de Sistemas de la Universidad de Colima",
+      "position": "Web Developer",
+      "website": "https://www.ucol.mx/",
+      "startDate": "2018-02-10",
+      "endDate": "2018-06-22",
+      "summary": "Designing and creating a database that could storage some of the students at the University of Colima by planning the best way of structure the information. Using Frontend technologies that could display the necessary information, just like JavaScript, HTML, CSS, Boostrap and MySQL."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Colima",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2016-08-10",
+      "endDate": "2020-06-26",
+      "gpa": "3.3",
+      "Grade ranking": "8.8",
+      "courses": ["SOFTWARE ENGINEERING"]
+    },
+    {
+      "institution": "Korea University",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2019-03-16",
+      "endDate": "2019-06-09",
+      "gpa": "3.08",
+      "courses": ["Algorithms", "Theory of Computation"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Proficient",
+      "keywords": ["HTML", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Proficient",
+      "keywords": ["CSS", "Frontend"]
+    },
+    {
+      "name": "Javascript",
+      "level": "Competent",
+      "keywords": ["Javascript", "Web development"]
+    },
+    {
+      "name": "React Native",
+      "level": "Advanced Beginner",
+      "keywords": ["Javascript", "Mobile development"]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Advanced Beginner",
+      "keywords": ["Frontend", "Bootstrap"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Competent",
+      "keywords": ["MySQL", "SQL", "Database"]
+    },
+    {
+      "name": "C++",
+      "level": "Advanced Beginner",
+      "keywords": ["C++", "Software development"]
+    },
+    {
+      "name": "React",
+      "level": "Competent",
+      "keywords": ["React", "Web development"]
+    },
+    {
+      "name": "C#",
+      "level": "Advanced Beginner",
+      "keywords": ["C#", "Software development"]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced Beginner",
+      "keywords": ["Git", "GitHub"]
+    },
+    {
+      "name": "Java",
+      "level": "Novice",
+      "keywords": ["Java", "Software development"]
+    },
+    {
+      "name": "Adobe XD",
+      "level": "Advanced Beginner",
+      "keywords": ["Adobe XD", "UI"]
+    },
+    {
+      "name": "Adobe Illustrator",
+      "level": "Novice",
+      "keywords": ["Adobe Illustrator", "UI"]
+    }
+  ],
+  "softskills": [
+    {
+      "name": "Responsability",
+      "level": "Acquired"
+    },
+    {
+      "name": "Teamwork",
+      "level": "Acquired"
+    },
+    {
+      "name": "Creative",
+      "level": "Acquired"
+    },
+    {
+      "name": "Honesty",
+      "level": "Acquired"
+    },
+    {
+      "name": "Respect",
+      "level": "Acquired"
+    },
+    {
+      "name": "Determination",
+      "level": "Acquired"
+    },
+    {
+      "name": "Solidarity",
+      "level": "Acquired"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Competent",
+      "TOEFL ITP": "543"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": ["Technology", "Fantasy"]
+    },
+    {
+      "name": "Korean Culture",
+      "keywords": ["Korea", "Media", "Culture", "History"]
+    }
+  ]
+}

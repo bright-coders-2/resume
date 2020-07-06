@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Aarón Barreto",
+    "label": "Frontend  & Shopify developer",
+    "picture": "http://127.0.0.1:5500/resume/aaron-barreto/foto.jpg",
+    "image": "foto.jpg",
+    "email": "tabarreto95@gmail.com",
+    "phone": "+52 1 312 138 5963",
+    "summary": "Computer Systems Engineer, I'm 24 years old, front-end web developer and shopify storefront developer, experience with technical support,  maintenance to computer equipment, hardware and software installation. I also enjoy to play with raspberry and arduino boards, just for fun.",
+    "location": {
+      "city": "Colima",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "BarretoAaron",
+        "url": "https://github.com/BarretoAaron"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bright Coders Academy / Untitled Project",
+      "position": "Frontend and Shopify developer",
+      "website": "https://www.brightcoders.com",
+      "startDate": "2020-01-22",
+      "endDate": "2020-07-02",
+      "summary": "Coded half of the front and shopify's 'backend' for the online store to the Untitled clothing brand."
+    },
+    {
+      "company": "MACRO Servicios",
+      "position": "Technical support and hardware maintenance",
+      "startDate": "2019-09-05",
+      "endDate": "2019-10-10",
+      "summary": "Made maintenance to all the computers and printers that the company had ad the moment."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Colima",
+      "area": "Computer Systems Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2015-08-15",
+      "endDate": "2020-06-22",
+      "prom": "90.0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Proficient",
+      "keywords": ["HTML", "HTML5", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Proficient",
+      "keywords": ["CSS", "CSS3", "Frontend"]
+    },
+    {
+      "name": "Sass",
+      "level": "Proficient",
+      "keywords": ["CSS", "SCSS", "Sass", "Frontend"]
+    },
+    {
+      "name": "Javascript",
+      "level": "Competent",
+      "keywords": ["Javascript", "Js", "ES6"]
+    },
+    {
+      "name": "Stimulus",
+      "level": "Competent",
+      "keywords": ["Javascript", "Stimulus"]
+    },
+    {
+      "name": "Liquid (Shopify)",
+      "level": "Competent",
+      "keywords": ["Ecommerce", "Liquid", "Storefront Shopify"]
+    },
+    {
+      "name": "PHP",
+      "level": "Advanced Beginner",
+      "keywords": ["PHP", "Backend"]
+    },
+    {
+      "name": "Laravel",
+      "level": "Novice",
+      "keywords": ["PHP", "MVC"]
+    },
+    {
+      "name": "SQL Server",
+      "level": "Proficient",
+      "keywords": ["SQL", "SQL Server", "Databases"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Proficient",
+      "keywords": ["MySQL", "SQL", "Databases"]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Proficient",
+      "keywords": ["Frontend", "Bootstrap"]
+    },
+    {
+      "name": "Linux CLI",
+      "level": "Proficient",
+      "keywords": ["Linux based SO", "CLI"]
+    },
+    {
+      "name": "Github",
+      "level": "Competent",
+      "keywords": ["Git", "Github", "Version control"]
+    },
+    {
+      "name": "Java",
+      "level": "Competent",
+      "keywords": ["Java", "Netbeans", "Android"]
+    },
+    {
+      "name": "C#",
+      "level": "Advanced Beginner",
+      "keywords": ["C#", "VisualStudio", "Windows apps"]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced Beginner",
+      "keywords": ["Python"]
+    },
+    {
+      "name": "API rest consumption",
+      "level": "Advanced Beginner",
+      "keywords": ["API", "rest"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Workout",
+      "keywords": ["Soccer", "Gym", "Running"]
+    },
+    {
+      "name": "IoT",
+      "keywords": ["Raspberry Pi", "Arduino", "Sensors and Actuators"]
+    }
+  ]
+}

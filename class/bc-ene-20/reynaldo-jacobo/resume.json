@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Reynaldo Jacobo",
+    "label": "Ruby on Rails Web Developer",
+    "picture": "http://127.0.0.1:5500/resume/reynaldo-jacobo/foto.jpg",
+    "image": "foto.jpg",
+    "email": "jacoboreynaldo@gmail.com",
+    "phone": "312-180-8916",
+    "website": "",
+    "summary": "I'm a person who likes to learn new things, including new programming languages and different ways to apply logic to web development.I have worked as a web developer at the University of Colima, in the department of General Management of Planning and Institutional Development, expanding my knowledge in the area of web programming.I participated in the courses taught by BrightCoders Academy where I developed my skills better and learned to use new technologies.",
+    "location": {
+      "address": "Rio Marabasco #577",
+      "postalCode": "28050",
+      "city": "Colima",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "reynaldojacob",
+        "url": "https://github.com/ReynaldoJacob"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bright Coders Academy/Donadores Compulsivos",
+      "position": "practitioner",
+      "website": "",
+      "startDate": "2020-01-13",
+      "endDate": "2020-06-15",
+      "summary": "Participate in the 'Donadores Compulsivos' project with a team. I was supporting the front-end team with Ruby On Rails technology."
+    },
+    {
+      "company": "General Direction of Planning and Institutional Development at the University of Colima",
+      "position": "practitioner",
+      "website": "Web Development",
+      "startDate": "2020-01-13",
+      "endDate": "2020-06-15",
+      "summary": "I provided my services to carry out the constitutional service of the UdeC in the department of General Direction of Planning and Institutional Development."
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "University of Colima",
+      "area": "Telematics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2016-08-01",
+      "endDate": "2020-08-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "5th National Colloquium on Educational Research",
+      "date": "2019-09-27",
+      "awarder": "General Direction of Planning and Institutional Development at the University of Colima",
+      "summary": "For giving the lecture: 'Information systems for educational planning through statistical indicators'"
+    },
+    {
+      "title": "Proof of constitutional social service.",
+      "date": "2019-09-01",
+      "awarder": "General Direction of Planning and Institutional Development at the University of Colima",
+      "summary": "For providing the Constitutional Social Service in Coordination of Planning and Institutional Development at the University of Colima"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": ["HTML", "CSS", "Javascript", "Ruby", "C#", "C++"],
+      "level": "Competent"
+    },
+    {
+      "name": "Ruby",
+      "keywords": ["Ruby"],
+      "level": "Competent"
+    },
+    {
+      "name": "C#",
+      "keywords": ["C#"],
+      "level": "Competent"
+    },
+    {
+      "name": "C++",
+      "keywords": ["C++"],
+      "level": "Competent"
+    },
+    {
+      "name": "Ruby on Rails",
+      "keywords": ["Ruby on Rails"],
+      "level": "Advanced Beginner"
+    },
+    {
+      "name": "Github",
+      "keywords": ["Github"],
+      "level": "Advanced Beginner"
+    },
+    {
+      "name": "PHP",
+      "keywords": ["PHP"],
+      "level": "Advanced Beginner"
+    },
+    {
+      "name": "MySQL",
+      "keywords": ["MySQL"],
+      "level": "Advanced Beginner"
+    },
+    {
+      "name": "jQuery",
+      "keywords": ["jQuery"],
+      "level": "Novice"
+    }
+  ],
+
+  "softskills": [
+    {
+      "name": "Teamwork",
+      "level": "Acquired"
+    },
+    {
+      "name": "Organization",
+      "level": "Acquired"
+    },
+    {
+      "name": "Confidence",
+      "level": "Acquired"
+    },
+    {
+      "name": "Positive attitude",
+      "level": "Acquired"
+    },
+    {
+      "name": "Communication",
+      "level": "Acquired"
+    },
+    {
+      "name": "Time Management",
+      "level": "Acquired"
+    },
+    {
+      "name": "Responsibility",
+      "level": "Acquired"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English (TOEFL 380)",
+      "fluency": "Competent"
+    }
+  ]
+}
