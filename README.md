@@ -26,5 +26,6 @@
 ## Clase BC-ENE-2020
 ### 13 Ene - 26 Jun 2020
 
-| Num | Prog| Nombre | ScoreCard |                                                                                                               | --- | --- | --- | --- |
+| Num | Prog | Nombre | ScoreCard |
+| --- | --- | --- | --- |
 | 01  | RoR | Alvaro Padilla Mendoza | [PDF](class/bc-ene-20/alvaro-padilla/alvaro-padilla.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-ene-20/alvaro-padilla/alvaro-padilla.html) |
