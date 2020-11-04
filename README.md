@@ -1,6 +1,26 @@
 ![Brightcoders logo](img/logo-bc.png)
 # Scorecards
 
+
+## Clase BC-JUN-2020
+### 01 JUN - 13 NOV 2020
+
+| Num | Prog | Nombre | ScoreCard |
+| --- | --- | --- | --- |
+| 01  | RoR | Carlos Segura Chávez | [PDF](class/bc-jun-20/carlos-segura/carlos-segura.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-jun-20/carlos-segura/carlos-segura.html) |
+
+## Clase BC-MAY-2020
+### 18 MAY - 13 NOV 2020
+
+| Num | Prog | Nombre | ScoreCard |
+| --- | --- | --- | --- |
+| 01  | RoR | Mario Andrés Pacheco Mendez | [PDF](class/bc-may-20/mario-pacheco/mario-pacheco.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/mario-pacheco/mario-pacheco.html) |
+| 02  | RoR | Diego Aaron Figueroa Campos | [PDF](class/bc-may-20/diego-figueroa/diego-figueroa.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/diego-figueroa/diego-figueroa.html) |
+| 03  | RoR | Jorge Alonso Garcia Vega | [PDF](class/bc-may-20/jorge-garcia/jorge-garcia.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/jorge-garcia/jorge-garcia.html) |
+| 04  | RoR | Alejandro Cabrera Moncada | [PDF](class/bc-may-20/alejandro-cabrera/alejandro-cabrera.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/alejandro-cabrera/alejandro-cabrera.html) |
+| 05  | RN | Owen Omar Ramirez Lopez | [PDF](class/bc-may-20/owen-ramirez/owen-ramirez.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/owen-ramirez/owen-ramirez.html) |
+| 06  | RN | Erik Aldahir Parra Santillán | [PDF](class/bc-may-20/erik-parra/erik-parra.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/erik-parra/erik-parra.html) |
+
 ## Clase BC-ENE-2020
 ### 13 Ene - 26 Jun 2020
 
@@ -22,24 +42,4 @@
 | 14  | UI/UX   | Rubí Lizet Castellanos Núñez         | PDF                                                                                                                                                                                                                |
 | 15  | UI/UX   | Fernanda Lizeth Morales Torres       | PDF                                                                                                         
 | 16  | UI/UX   | Maria Paola López Sandoval           | [PDF](class/bc-ene-20/paola-lopez/paola-lopez.pdf)                                                                                                                                                                 |
-
-## Clase BC-MAY-2020
-### 18 MAY - 13 NOV 2020
-
-| Num | Prog | Nombre | ScoreCard |
-| --- | --- | --- | --- |
-| 01  | RoR | Mario Andrés Pacheco Mendez | [PDF](class/bc-may-20/mario-pacheco/mario-pacheco.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/mario-pacheco/mario-pacheco.html) |
-| 02  | RoR | Diego Aaron Figueroa Campos | [PDF](class/bc-may-20/diego-figueroa/diego-figueroa.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/diego-figueroa/diego-figueroa.html) |
-| 03  | RoR | Jorge Alonso Garcia Vega | [PDF](class/bc-may-20/jorge-garcia/jorge-garcia.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/jorge-garcia/jorge-garcia.html) |
-| 04  | RoR | Alejandro Cabrera Moncada | [PDF](class/bc-may-20/alejandro-cabrera/alejandro-cabrera.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/alejandro-cabrera/alejandro-cabrera.html) |
-| 05  | RN | Owen Omar Ramirez Lopez | [PDF](class/bc-may-20/owen-ramirez/owen-ramirez.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/owen-ramirez/owen-ramirez.html) |
-| 06  | RN | Erik Aldahir Parra Santillán | [PDF](class/bc-may-20/erik-parra/erik-parra.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-may-20/erik-parra/erik-parra.html) |
-
-
-## Clase BC-JUN-2020
-### 01 JUN - 13 NOV 2020
-
-| Num | Prog | Nombre | ScoreCard |
-| --- | --- | --- | --- |
-| 01  | RoR | Carlos Segura Chávez | [PDF](class/bc-jun-20/carlos-segura/carlos-segura.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-jun-20/carlos-segura/carlos-segura.html) |
 
