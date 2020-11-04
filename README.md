@@ -1,7 +1,6 @@
 ![Brightcoders logo](img/logo-bc.png)
 # Scorecards
 
-
 ## Clase BC-JUN-2020
 ### 01 JUN - 13 NOV 2020
 
