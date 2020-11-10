@@ -6,7 +6,7 @@
 
 | Num | Prog | Nombre | ScoreCard |
 | --- | --- | --- | --- |
-| 01  | RoR | Carlos Segura Chávez | [PDF](class/bc-jun-20/carlos-segura/carlos-segura.pdf) [HTML](https://htmlpreview.github.io/?https://github.com/bright-coders/resume/blob/master/class/bc-jun-20/carlos-segura/carlos-segura.html) |
+| 01  | RoR | Carlos Segura Chávez | [PDF](class/bc-jun-20/carlos-segura/carlos-segura.pdf) |
 
 ## Clase BC-MAY-2020
 ### 18 MAY - 13 NOV 2020
