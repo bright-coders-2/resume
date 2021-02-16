@@ -1,6 +1,26 @@
 ![Brightcoders logo](img/logo-bc.png)
 # Scorecards
 
+## Clase BC-AUG-2020
+### 31 AUG 2020 - 23 FEB 2021
+
+| Num | Prog | Nombre | ScoreCard |
+| --- | --- | --- | --- |
+| 01  | RoR | Eduardo David Jiménez Cisneros| [PDF]() |
+| 02  | RoR | Edgar Díaz Jaymez | [PDF]() |
+| 03  | RoR | Karina Elizabeth Delgado Rodríguez| [PDF]() |
+| 04  | RoR | Karla Daniela Segura Sotomayor | [PDF]() |
+| 05  | RoR | Ricardo Trejos Restrepo | [PDF]() |
+| 06  | RoR | José Pedro Chávez Aparicio | [PDF]() |
+| 07  | RoR | Armando Aguirre | [PDF]() |
+| 08  | RoR | Jacqueline Flores Méndez | [PDF]() |
+| 09  | RN  | Oscar Cosme Ventura | [PDF]() |
+| 10  | RN  | Héber Herrera | [PDF]() |
+| 11  | RN  | Jordi Alejandro Garcia Nuñez | [PDF]() |
+| 12  | RN  | Oscar Hiram Alvarez Campos| [PDF]() |
+| 13  | RN  | Elias Daniel Sanchez Lopez | [PDF]() |
+| 14  | RN  | Luis Oswaldo Tovar Olivera | [PDF]() |
+
 ## Clase BC-JUN-2020
 ### 01 JUN - 13 NOV 2020
 
