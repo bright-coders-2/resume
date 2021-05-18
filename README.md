@@ -1,8 +1,35 @@
 ![Brightcoders logo](img/logo-bc.png)
 # Scorecards
 
+## Clase BC-NOV-2020
+### 30 NOV 2020 - 21 MAY 2021
+
+| Num | Prog | Nombre | ScoreCard |
+| --- | --- | --- | --- |
+| 01  | RoR | Ariel Enrique May Dzul | [VER](https://bc-nov-20-proyectos.github.io/resume-ArielMD/) |
+| 02  | RoR | Fernando Israel González Madrigal | [VER](https://bc-nov-20-proyectos.github.io/resume-n0b0dy-su/) |
+| 03  | RoR | Frania Sinahi Suarez Lopez | VER |
+| 04  | RoR | Jorge Andrés Ochoa Alcaraz | [VER](https://bc-nov-20-proyectos.github.io/resume-OchoaHub/) |
+| 05  | RoR | José Alberto Negrete González | [VER](https://bc-nov-20-proyectos.github.io/resume-jnegrete15/) |
+| 06  | RoR | Luis Diego Vera Alvarez | [VER](https://bc-nov-20-proyectos.github.io/resume-LDVera/) |
+| 07  | RoR | Luis Pedro Mendoza Aceves | [VER](https://bc-nov-20-proyectos.github.io/resume-LPMendoza/) |
+| 08  | RoR | Mario Rubén Mancilla Tinoco | [VER](https://bc-nov-20-proyectos.github.io/resume-mariormt17/) |
+| 09  | RoR | Miguel Alejandro Oceguera Munguía | [VER](https://bc-nov-20-proyectos.github.io/resume-MiguelOcegueraM/) |
+| 10  | RoR | Raul Egidio Ferreira Goebel | VER |
+| 11  | RN | Andrés Jacinto Araujo Ortiz | VER |
+| 12  | RN | Génesis Flores Zárate | VER |
+| 13  | RN | Héctor Arturo Aguirre Munguía | [VER]() |
+| 14  | RN | Héctor Manuel Ruvalcaba Pizano | [VER](https://bc-nov-20-proyectos.github.io/resume-HRuvalcabaP/) |
+| 15  | RN | Jazmin Chávez Flores | [VER](https://bc-nov-20-proyectos.github.io/resume-GracielaJazmin/) |
+| 16  | RN | Joaquin Niembro Bueno Gómez | VER |
+| 17  | RN | Jorge Ramírez García | [VER](https://bc-nov-20-proyectos.github.io/resume-JorgeGarciaRa/) |
+| 18  | RN | Juan Jesús Carbajal Ramos | VER |
+| 19  | RN | Mariam Rivera Hernández | [VER](https://bc-nov-20-proyectos.github.io/resume-mariam-rivera/) |
+| 20  | RN | Valdemar Gerzain Magaña Nicolás | [VER](https://bc-nov-20-proyectos.github.io/resume-vmagana3/) |
+| 21  | RN | Yessica Chantal Ramírez Covarrubias | VER |
+
 ## Clase BC-AUG-2020
-### 31 AUG 2020 - 23 FEB 2021
+### 31 AGO 2020 - 23 FEB 2021
 
 | Num | Prog | Nombre | ScoreCard |
 | --- | --- | --- | --- |
@@ -41,7 +68,7 @@
 | 06  | RN | Erik Aldahir Parra Santillán | [PDF](class/bc-may-20/erik-parra.pdf) |
 
 ## Clase BC-ENE-2020
-### 13 Ene - 26 Jun 2020
+### 13 ENE - 26 JUN 2020
 
 | Num | Prog    | Nombre                               | ScoreCard                                                                                                                                                                                                          |
 | --- | ------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
