@@ -33,20 +33,20 @@
 
 | Num | Prog | Nombre | ScoreCard |
 | --- | --- | --- | --- |
-| 01  | RoR | Eduardo David Jiménez Cisneros| [PDF]() |
-| 02  | RoR | Edgar Díaz Jaymez | [PDF]() |
-| 03  | RoR | Karina Elizabeth Delgado Rodríguez| [PDF]() |
-| 04  | RoR | Karla Daniela Segura Sotomayor | [PDF]() |
-| 05  | RoR | Ricardo Trejos Restrepo | [PDF]() |
-| 06  | RoR | José Pedro Chávez Aparicio | [PDF]() |
-| 07  | RoR | Armando Aguirre | [PDF]() |
-| 08  | RoR | Jacqueline Flores Méndez | [PDF]() |
-| 09  | RN  | Oscar Cosme Ventura | [PDF]() |
-| 10  | RN  | Héber Herrera | [PDF]() |
-| 11  | RN  | Jordi Alejandro Garcia Nuñez | [PDF]() |
-| 12  | RN  | Oscar Hiram Alvarez Campos| [PDF]() |
-| 13  | RN  | Elias Daniel Sanchez Lopez | [PDF]() |
-| 14  | RN  | Luis Oswaldo Tovar Olivera | [PDF]() |
+| 01  | RoR | Eduardo David Jiménez Cisneros| VER |
+| 02  | RoR | Edgar Díaz Jaymez | [VER](class/bc-aug-20/edgar-díaz.pdf) |
+| 03  | RoR | Karina Elizabeth Delgado Rodríguez| [VER](class/bc-aug-20/karina-delgado.pdf) |
+| 04  | RoR | Karla Daniela Segura Sotomayor | [VER](class/bc-aug-20/karla-segura.pdf) |
+| 05  | RoR | Ricardo Trejos Restrepo | VER |
+| 06  | RoR | José Pedro Chávez Aparicio | VER |
+| 07  | RoR | Armando Aguirre | VER |
+| 08  | RoR | Jacqueline Flores Méndez | VER |
+| 09  | RN  | Oscar Cosme Ventura | [VER](class/bc-aug-20/oscar-cosme.pdf) |
+| 10  | RN  | Héber Herrera | [VER](class/bc-aug-20/heber-herrera.pdf) |
+| 11  | RN  | Jordi Alejandro Garcia Nuñez | [VER](class/bc-aug-20/jordi-garcia.pdf) |
+| 12  | RN  | Oscar Hiram Alvarez Campos| VER |
+| 13  | RN  | Elias Daniel Sanchez Lopez | [VER](class/bc-aug-20/eliaz-sanchez.pdf) |
+| 14  | RN  | Luis Oswaldo Tovar Olivera | VER |
 
 ## Clase BC-JUN-2020
 ### 01 JUN - 13 NOV 2020
