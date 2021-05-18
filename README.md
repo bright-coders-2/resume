@@ -18,7 +18,7 @@
 | 10  | RoR | Raul Egidio Ferreira Goebel | VER |
 | 11  | RN | Andrés Jacinto Araujo Ortiz | VER |
 | 12  | RN | Génesis Flores Zárate | VER |
-| 13  | RN | Héctor Arturo Aguirre Munguía | [VER]() |
+| 13  | RN | Héctor Arturo Aguirre Munguía | VER |
 | 14  | RN | Héctor Manuel Ruvalcaba Pizano | [VER](https://bc-nov-20-proyectos.github.io/resume-HRuvalcabaP/) |
 | 15  | RN | Jazmin Chávez Flores | [VER](https://bc-nov-20-proyectos.github.io/resume-GracielaJazmin/) |
 | 16  | RN | Joaquin Niembro Bueno Gómez | VER |
