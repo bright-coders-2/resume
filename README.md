@@ -2,7 +2,7 @@
 # Scorecards
 
 ## Clase BC-NOV-2020
-### 30 NOV 2020 - 21 MAY 2021 [Actividad en Github]()
+### 30 NOV 2020 - 21 MAY 2021. Actividad en Github [Ruby on Rails](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCNOV20ROR.md), [React Native](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCNOV20RN.md)
 
 | Num | Prog | Nombre | ScoreCard |
 | --- | --- | --- | --- |
