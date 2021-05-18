@@ -34,7 +34,7 @@
 | Num | Prog | Nombre | ScoreCard |
 | --- | --- | --- | --- |
 | 01  | RoR | Eduardo David Jiménez Cisneros| VER |
-| 02  | RoR | Edgar Díaz Jaymez | [VER](class/bc-aug-20/edgar-diaz.pdf) |
+| 02  | RoR | Edgar Díaz Jaymez | [VER](class/bc-aug-20/edgar-dIaz.pdf) |
 | 03  | RoR | Karina Elizabeth Delgado Rodríguez| [VER](class/bc-aug-20/karina-delgado.pdf) |
 | 04  | RoR | Karla Daniela Segura Sotomayor | [VER](class/bc-aug-20/karla-segura.pdf) |
 | 05  | RoR | Ricardo Trejos Restrepo | VER |
