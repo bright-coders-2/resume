@@ -2,7 +2,7 @@
 # Scorecards
 
 ## Clase BC-NOV-2020
-### 30 NOV 2020 - 21 MAY 2021
+### 30 NOV 2020 - 21 MAY 2021 [Actividad en Github]()
 
 | Num | Prog | Nombre | ScoreCard |
 | --- | --- | --- | --- |
