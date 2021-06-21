@@ -1,6 +1,32 @@
 ![Brightcoders logo](img/logo-bc.png)
 # Scorecards
 
+## Clase BC-MAR-2021
+### 08 MAR 2021 - 25 JUN 2021. 
+Actividad en Github [Ruby on Rails](), [React Native]()
+
+| Num | Prog | Nombre | ScoreCard |
+| --- | --- | --- | --- |
+| 01  | RoR | Alan Guillermo Avila Macías | [VER]() |
+| 02  | RoR | Angelina Moreno Robledo | [VER]() |
+| 03  | RoR | Brayan Lopez Benitez | [VER]() |
+| 04  | RoR | Brayan Yassua Diaz Cardenas | [VER]() |
+| 05  | RoR | Carlos Montiel Medina | [VER]() |
+| 06  | RoR | Eusebio Ajas Santos | [VER]() |
+| 07  | RoR | Javier Fernando Chi Ortiz | [VER]() |
+| 08  | RoR | Rubén Mariano Alarcón | [VER]() |
+| 09  | RoR | Miguel Antonio Rodriguez Perez | [VER]() |
+| 10  | RoR | Roberto Antonio Velasco Munguía | [VER]() |
+| 11  | RN | Alfredo Alonzo Alcaráz Silva | [VER]() |
+| 12  | RN | Carlos Adrian Cortés Meléndez | [VER]() |
+| 13  | RN | Demis Alberto Rincón Martínez | [VER]() |
+| 14  | RN | Diego Rodríguez López | [VER]() |
+| 15  | RN | Francisco Sabino López Escamilla | [VER]() |
+| 16  | RN | Gilberto Armando Aguirre Alvarez | [VER]() |
+| 17  | RN | Jacqueline Flores Méndez | [VER]() |
+| 18  | RN | José Antonio Támara Fuentes | [VER]() |
+| 19  | RN | Orlando Álvarez Peregrina | [VER]() |
+
 ## Clase BC-NOV-2020
 ### 30 NOV 2020 - 21 MAY 2021. 
 Actividad en Github [Ruby on Rails](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCNOV20ROR.md), [React Native](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCNOV20RN.md)
