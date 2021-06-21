@@ -7,25 +7,25 @@ Actividad en Github [Ruby on Rails](), [React Native]()
 
 | Num | Prog | Nombre | ScoreCard |
 | --- | --- | --- | --- |
-| 01  | RoR | Alan Guillermo Avila Macías | [VER]() |
-| 02  | RoR | Angelina Moreno Robledo | [VER]() |
-| 03  | RoR | Brayan Lopez Benitez | [VER]() |
-| 04  | RoR | Brayan Yassua Diaz Cardenas | [VER]() |
-| 05  | RoR | Carlos Montiel Medina | [VER]() |
-| 06  | RoR | Eusebio Ajas Santos | [VER]() |
-| 07  | RoR | Javier Fernando Chi Ortiz | [VER]() |
-| 08  | RoR | Rubén Mariano Alarcón | [VER]() |
-| 09  | RoR | Miguel Antonio Rodriguez Perez | [VER]() |
-| 10  | RoR | Roberto Antonio Velasco Munguía | [VER]() |
-| 11  | RN | Alfredo Alonzo Alcaráz Silva | [VER]() |
-| 12  | RN | Carlos Adrian Cortés Meléndez | [VER]() |
-| 13  | RN | Demis Alberto Rincón Martínez | [VER]() |
-| 14  | RN | Diego Rodríguez López | [VER]() |
-| 15  | RN | Francisco Sabino López Escamilla | [VER]() |
-| 16  | RN | Gilberto Armando Aguirre Alvarez | [VER]() |
-| 17  | RN | Jacqueline Flores Méndez | [VER]() |
-| 18  | RN | José Antonio Támara Fuentes | [VER]() |
-| 19  | RN | Orlando Álvarez Peregrina | [VER]() |
+| 01  | RoR | Alan Guillermo Avila Macías | [VER](https://bc-mar-21-ror.github.io/kata-resume-ALAN1MACIAS/) |
+| 02  | RoR | Angelina Moreno Robledo | [VER](https://bc-mar-21-ror.github.io/kata-resume-anxhe/) |
+| 03  | RoR | Brayan Lopez Benitez | [VER](https://bc-mar-21-ror.github.io/kata-resume-Brayan9105/) |
+| 04  | RoR | Brayan Yassua Diaz Cardenas | [VER](https://bc-mar-21-ror.github.io/kata-resume-brayandiazc/) |
+| 05  | RoR | Carlos Montiel Medina | [VER](https://bc-mar-21-ror.github.io/kata-resume-Carlos-Montiel/) |
+| 06  | RoR | Eusebio Ajas Santos | [VER](https://bc-mar-21-ror.github.io/kata-resume-EusebioAjas/) |
+| 07  | RoR | Javier Fernando Chi Ortiz | [VER](https://bc-mar-21-ror.github.io/kata-resume-SpidySamurai/) |
+| 08  | RoR | Rubén Mariano Alarcón | [VER](https://bc-mar-21-ror.github.io/kata-resume-marianoalarcon/) |
+| 09  | RoR | Miguel Antonio Rodriguez Perez | [VER](https://bc-mar-21-ror.github.io/kata-resume-Arkamis/) |
+| 10  | RoR | Roberto Antonio Velasco Munguía | [VER](https://bc-mar-21-ror.github.io/kata-resume-RobertVel666/) |
+| 11  | RN | Alfredo Alonzo Alcaráz Silva | [VER](https://bc-mar-21-rn.github.io/kata-resume-Alonso-AS/) |
+| 12  | RN | Carlos Adrian Cortés Meléndez | VER |
+| 13  | RN | Demis Alberto Rincón Martínez | [VER](https://bc-mar-21-rn.github.io/kata-resume-DemisRincon/) |
+| 14  | RN | Diego Rodríguez López | [VER](https://bc-mar-21-rn.github.io/kata-resume-DiegoSpielzeug/) |
+| 15  | RN | Francisco Sabino López Escamilla | [VER](https://bc-mar-21-rn.github.io/kata-resume-Coreandrum1/) |
+| 16  | RN | Gilberto Armando Aguirre Alvarez | [VER](https://bc-mar-21-rn.github.io/kata-resume-YilKanda/) |
+| 17  | RN | Jacqueline Flores Méndez | [VER](https://bc-mar-21-rn.github.io/kata-resume-JacquelineFM/) |
+| 18  | RN | José Antonio Támara Fuentes | [VER](https://bc-mar-21-rn.github.io/kata-resume-jkzasori/) |
+| 19  | RN | Orlando Álvarez Peregrina | [VER](https://bc-mar-21-rn.github.io/kata-resume-OrlandoAlPe/) |
 
 ## Clase BC-NOV-2020
 ### 30 NOV 2020 - 21 MAY 2021. 
