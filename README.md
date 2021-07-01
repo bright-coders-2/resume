@@ -3,7 +3,7 @@
 
 ## Clase BC-MAR-2021
 ### 08 MAR 2021 - 25 JUN 2021. 
-Actividad en Github [Ruby on Rails](), [React Native]()
+Actividad en Github [Ruby on Rails](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCMAR21ROR.md), [React Native](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCMAR21RN.md)
 
 | Num | Prog | Nombre | ScoreCard |
 | --- | --- | --- | --- |
