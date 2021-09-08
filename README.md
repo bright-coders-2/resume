@@ -3,6 +3,35 @@
 
 ## Clase BC-MAR-2021
 ### 08 MAR 2021 - 25 JUN 2021. 
+
+- Ruby on Rails
+  - [Actividad en Github](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCMAY21ROR.md)
+  - [Reloj Checador](https://github.com/bright-coders/commons/blob/master/topics/proyecto1/bcmay21ror.md) 
+  - [Proyecto Final](https://github.com/bright-coders/commons/blob/master/topics/proyecto-final/bcmay21ror.md)
+- React Native
+  - [Actividad en Github](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCMAY21RN.md) 
+  - [Reservación de vuelos](https://github.com/bright-coders/commons/blob/master/topics/proyecto1/bcmay21rn.md)
+  - [Proyecto final](https://github.com/bright-coders/commons/blob/master/topics/proyecto-final/bcmay21rn.md)
+
+| Num | Prog | Nombre | ScoreCard |
+| --- | --- | --- | --- |
+| 01  | RoR | Alejandro Vázquez Ibarra | [VER](https://bc-may-21-ror.github.io/kata-04-resume-AlejandroVI99/) |
+| 02  | RoR | Angel Arturo Oramas Rojas | [VER](https://bc-may-21-ror.github.io/kata-04-resume-oramasangel/) |
+| 03  | RoR | Elizabeth Sarahi Navarro Mateos | [VER](https://bc-may-21-ror.github.io/kata-04-resume-SaraNavarro/) |
+| 04  | RoR | Fernando Viveros Jimenez | [VER](https://bc-may-21-ror.github.io/kata-04-resume-xFerchoVJ/) |
+| 05  | RoR | Jairo Olan Mayo | [VER](https://bc-may-21-ror.github.io/kata-04-resume-jairolan/) |
+| 06  | RoR | Javier Ismael Sampablo Cuevas | [VER](https://bc-may-21-ror.github.io/kata-04-resume-SampabloC/) |
+| 07  | RoR | Jesus Omar Rodriguez Bravo | [VER](https://bc-may-21-ror.github.io/kata-04-resume-OmarRoBra/) |
+| 08  | RoR | Jose Ricardo Jimenez Campos | [VER](https://bc-may-21-ror.github.io/kata-04-resume-JoseRicardoJimenez/) |
+| 09  | RoR | Julio Ariel Cabrera Caamal | [VER](https://bc-may-21-ror.github.io/kata-04-resume-juliocabrera820/) |
+| 10  | RoR | Martin Mojica Torres | [VER](https://bc-may-21-ror.github.io/kata-04-resume-martinmt-mx/) |
+| 11  | RoR | Roberto Faustino Carrasco Medina | [VER](https://bc-may-21-ror.github.io/kata-04-resume-RobertoCarMed/) |
+| 12  | RN | Hancel Rigoberto Ávila Galindo | [VER](https://bc-may-21-rn.github.io/kata-resume-hancel-avila/) |
+| 13  | RN | Roberto Cortez Valencia | [VER](https://bc-may-21-rn.github.io/kata-resume-cortezroberto/) |
+| 14  | RN | Yovanha Alitzel Fajardo Borjas | [VER](https://bc-may-21-rn.github.io/kata-resume-yovanha/) |
+
+## Clase BC-MAR-2021
+### 08 MAR 2021 - 25 JUN 2021. 
 Actividad en Github [Ruby on Rails](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCMAR21ROR.md), [React Native](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCMAR21RN.md)
 
 | Num | Prog | Nombre | ScoreCard |
