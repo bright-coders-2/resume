@@ -1,8 +1,8 @@
 ![Brightcoders logo](img/logo-bc.png)
 # Scorecards
 
-## Clase BC-MAR-2021
-### 08 MAR 2021 - 25 JUN 2021. 
+## Clase BC-MAY-2021
+### 31 MAY 2021 - 17 SEP 2021. 
 
 - Ruby on Rails
   - [Actividad en Github](https://github.com/bright-coders/commons/blob/master/topics/github-activity/BCMAY21ROR.md)
